@@ -1,0 +1,11 @@
+{
+  "category": "billing",
+  "priority": "high",
+  "summary": "Списание",
+  "tags": [
+    "payment"
+  ],
+  "requires_human": true,
+  "request_id": "cd942bf84f0e46d791354792d035f5a6",
+  "status": "validated"
+}
